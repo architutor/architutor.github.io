@@ -6,7 +6,7 @@ If the file does not start with a header, then the post title will be derived fr
 
 This is a sample blog post. You can talk about all sorts of fun things here.
 
-![architutor logo](../assets/images/Screenshot 2021-09-17 at 12.14.36.png)
+![architutor logo](assets/images/logo.png)
 
 ---
 
